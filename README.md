@@ -30,27 +30,32 @@ During the project, data cleaning steps were also performed by handling missing 
       * Outlier detection
       * Data visualization using charts and graphs
 
-How to Run the Project
-Open the notebook in Google Colab
-Upload or connect the dataset
-Run all notebook cells step by step
-Execute the analysis and visualization sections
-Review the generated charts and outputs
-Key Insights
-Some products showed significantly higher sales compared to others
-Payment methods varied across customer transactions
-Monthly sales trends helped identify business performance patterns
-Correlation analysis showed relationships between numerical variables
-Learning Outcomes
+----- How to Run the Project -----
+
+     * Open the notebook in Google Colab
+     * Upload or connect the dataset
+     * Run all notebook cells step by step
+     * Execute the analysis and visualization sections
+     * Review the generated charts and outputs
+
+----- Key Insights -----
+
+     * Some products showed significantly higher sales compared to others
+     * Payment methods varied across customer transactions
+     * Monthly sales trends helped identify business performance patterns
+     * Correlation analysis showed relationships between numerical variables
+
+----- Learning Outcomes -----
 
 This project helped me improve my practical knowledge in:
 
-Exploratory Data Analysis (EDA)
-Data visualization techniques
-Using Seaborn and Matplotlib
-Data preprocessing and cleaning
-Understanding sales data patterns using Python
-Author
+     * Exploratory Data Analysis (EDA)
+     * Data visualization techniques
+     * Using Seaborn and Matplotlib
+     * Data preprocessing and cleaning
+     * Understanding sales data patterns using Python
+
+----- Author -----
 
 Thamindu Kavinda
-Data Analytics Intern – DecodeLabs
+( Data Analytics Intern – DecodeLabs )
